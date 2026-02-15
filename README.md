@@ -1,7 +1,5 @@
-## Hi there
-
 # 💫 About Me:
-Hey, <br><br>I am an Information Security professional specialized in IT Risk Management, Data Privacy, Security & Compliance.<br><br>I have performed Security gap assessments, IT regulatory compliance audits, built and implemented IT security controls.<br><br>Some of the industries I worked include Banking, FinTech, E-commerce, Manufacturing. <br><br>I have also performed Vulnerability assessments, system hardening and patch management.
+<br><br>I am an Information Security professional specialized in IT Risk Management, Data Privacy, Security & Compliance.<br><br>I have performed Security gap assessments, IT regulatory compliance audits, built and implemented IT security controls.<br><br>Some of the industries I worked include Banking, FinTech, E-commerce, Manufacturing. <br><br>I have also performed Vulnerability assessments, system hardening and patch management.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rdevanath) 
