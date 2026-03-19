@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>I am a seasoned Information Security professional specialized in IT Risk Management, Data Privacy, Security & Compliance.<br><br>I have led Security gap assessments, IT regulatory audits and control implementationacross Banking, FinTech, E-commerce, and Manufacturing—delivering measurable risk reductions. <br><br>From vulnerability assessments and system hardening to patch management, I build resilient defence.
+<br><br>I am a seasoned Information Security professional specialized in IT Risk Management, Data Privacy, Security & Compliance.<br><br>I have led Security gap assessments, IT regulatory audits and control implementation across Banking, FinTech, E-commerce, and Manufacturing—delivering measurable risk reductions. <br><br>From vulnerability assessments and system hardening to patch management, I build resilient defence.
 
 Passionate about emerging tech stacks and mentoring the next gen of cybersecurity leaders.
 
